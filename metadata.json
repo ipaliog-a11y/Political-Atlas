@@ -1,0 +1,6 @@
+{
+  "name": "Polity Atlas",
+  "description": "An interactive editorial world map visualizing sovereign nations by political system, elected ruling party, and ideological leaning with regional trend analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
